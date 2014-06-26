@@ -29,784 +29,736 @@ import UIKit
 class SPMUIColor{
 
 
-    class func aluminumCrayonColor()->UIColor {
+    class func aluminumColor()->UIColor {
         return UIColor(red:0.6, green:0.6, blue:0.6, alpha:1.0)
     }
 
-    class func aquaCrayonColor()->UIColor {
+    class func aquaColor()->UIColor {
         return UIColor(red:0.0, green:0.5, blue:1.0, alpha:1.0)
     }
 
-    class func asparagusCrayonColor()->UIColor {
+    class func asparagusColor()->UIColor {
         return UIColor(red:0.5, green:0.5, blue:0.0, alpha:1.0)
     }
 
-    class func bananaCrayonColor()->UIColor {
+    class func bananaColor()->UIColor {
         return UIColor(red:1.0, green:1.0, blue:0.4, alpha:1.0)
     }
 
-    class func blueberryCrayonColor()->UIColor {
+    class func blueberryColor()->UIColor {
         return UIColor(red:0.0, green:0.0, blue:1.0, alpha:1.0)
     }
 
-    class func bubblegumCrayonColor()->UIColor {
+    class func bubblegumColor()->UIColor {
         return UIColor(red:1.0, green:0.4, blue:1.0, alpha:1.0)
     }
 
-    class func carnationCrayonColor()->UIColor {
+    class func carnationColor()->UIColor {
         return UIColor(red:1.0, green:111/255.0, blue:207/255.0, alpha:1.0)
     }
 
-    class func cantalopeCrayonColor()->UIColor {
+    class func cantalopeColor()->UIColor {
         return UIColor(red:1.0, green:0.8, blue:0.4, alpha:1.0)
     }
 
-    class func cayenneCrayonColor()->UIColor {
+    class func cayenneColor()->UIColor {
         return UIColor(red:0.5, green:0.0, blue:0.0, alpha:1.0)
     }
 
-    class func cloverCrayonColor()->UIColor {
+    class func cloverColor()->UIColor {
         return UIColor(red:0.0, green:0.5, blue:0.0, alpha:1.0)
     }
 
-    class func eggplantCrayonColor()->UIColor {
+    class func eggplantColor()->UIColor {
         return UIColor(red:0.25, green:0.0, blue:0.5, alpha:1.0)
     }
 
-    class func fernCrayonColor()->UIColor {
+    class func fernColor()->UIColor {
         return UIColor(red:0.25, green:0.5, blue:0.0, alpha:1.0)
     }
 
-    class func floraCrayonColor()->UIColor {
+    class func floraColor()->UIColor {
         return UIColor(red:0.4, green:1.0, blue:0.4, alpha:1.0)
     }
 
-    class func grapeCrayonColor()->UIColor {
+    class func grapeColor()->UIColor {
         return UIColor(red:0.5, green:0.0, blue:1.0, alpha:1.0)
     }
 
-    class func honeydewCrayonColor()->UIColor {
+    class func honeydewColor()->UIColor {
         return UIColor(red:0.8, green:1.0, blue:0.4, alpha:1.0)
     }
 
-    class func iceCrayonColor()->UIColor {
+    class func iceColor()->UIColor {
         return UIColor(red:0.4, green:1.0, blue:1.0, alpha:1.0)
     }
 
-    class func ironCrayonColor()->UIColor {
+    class func ironColor()->UIColor {
         return UIColor(red:0.3, green:0.3, blue:0.3, alpha:1.0)
     }
 
-    class func lavenderCrayonColor()->UIColor {
+    class func lavenderColor()->UIColor {
         return UIColor(red:0.8, green:0.4, blue:1.0, alpha:1.0)
     }
 
-    class func leadCrayonColor()->UIColor {
+    class func leadColor()->UIColor {
         return UIColor(red:0.1, green:0.1, blue:0.1, alpha:1.0)
     }
 
-    class func lemonCrayonColor()->UIColor {
+    class func lemonColor()->UIColor {
         return UIColor(red:1.0, green:1.0, blue:0.0, alpha:1.0)
     }
 
-    class func licoriceCrayonColor()->UIColor {
+    class func licoriceColor()->UIColor {
         return UIColor(red:0.0, green:0.0, blue:0.0, alpha:1.0)
     }
 
-    class func limeCrayonColor()->UIColor {
+    class func limeColor()->UIColor {
         return UIColor(red:0.5, green:1.0, blue:0.0, alpha:1.0)
     }
 
-    class func magentaCrayonColor()->UIColor {
+    class func magentaColor()->UIColor {
         return UIColor(red:1.0, green:0.0, blue:1.0, alpha:1.0)
     }
 
-    class func magnesiumCrayonColor()->UIColor {
+    class func magnesiumColor()->UIColor {
         return UIColor(red:0.7, green:0.7, blue:0.7, alpha:1.0)
     }
 
-    class func maraschinoCrayonColor()->UIColor {
+    class func maraschinoColor()->UIColor {
         return UIColor(red:1.0, green:0.0, blue:0.0, alpha:1.0)
     }
 
-    class func maroonCrayonColor()->UIColor {
+    class func maroonColor()->UIColor {
         return UIColor(red:0.5, green:0.0, blue:0.25, alpha:1.0)
     }
 
-    class func mercuryCrayonColor()->UIColor {
+    class func mercuryColor()->UIColor {
         return UIColor(red:0.9, green:0.9, blue:0.9, alpha:1.0)
     }
 
-    class func midnightCrayonColor()->UIColor {
+    class func midnightColor()->UIColor {
         return UIColor(red:0.0, green:0.0, blue:0.5, alpha:1.0)
     }
 
-    class func mochaCrayonColor()->UIColor {
+    class func mochaColor()->UIColor {
         return UIColor(red:0.5, green:0.25, blue:0.0, alpha:1.0)
     }
 
-    class func mossCrayonColor()->UIColor {
+    class func mossColor()->UIColor {
         return UIColor(red:0.0, green:0.5, blue:0.25, alpha:1.0)
     }
 
-    class func nickelCrayonColor()->UIColor {
+    class func nickelColor()->UIColor {
         return UIColor(red:0.5, green:0.5, blue:0.5, alpha:1.0)
     }
 
-    class func oceanCrayonColor()->UIColor {
+    class func oceanColor()->UIColor {
         return UIColor(red:0.0, green:0.25, blue:0.5, alpha:1.0)
     }
 
-    class func orchidCrayonColor()->UIColor {
+    class func orchidColor()->UIColor {
         return UIColor(red:0.4, green:0.4, blue:1.0, alpha:1.0)
     }
 
-    class func plumCrayonColor()->UIColor {
+    class func plumColor()->UIColor {
         return UIColor(red:0.5, green:0.0, blue:0.5, alpha:1.0)
     }
 
-    class func salmonCrayonColor()->UIColor {
+    class func salmonColor()->UIColor {
         return UIColor(red:1.0, green:0.4, blue:0.4, alpha:1.0)
     }
 
-    class func seafoamCrayonColor()->UIColor {
+    class func seafoamColor()->UIColor {
         return UIColor(red:0.0, green:1.0, blue:0.5, alpha:1.0)
     }
 
-    class func silverCrayonColor()->UIColor {
+    class func silverColor()->UIColor {
         return UIColor(red:0.8, green:0.8, blue:0.8, alpha:1.0)
     }
 
-    class func skyCrayonColor()->UIColor {
+    class func skyColor()->UIColor {
         return UIColor(red:0.4, green:0.8, blue:1.0, alpha:1.0)
     }
 
-    class func snowCrayonColor()->UIColor {
+    class func snowColor()->UIColor {
         return UIColor(red:1.0, green:1.0, blue:1.0, alpha:1.0)
     }
 
-    class func spindriftCrayonColor()->UIColor {
+    class func spindriftColor()->UIColor {
         return UIColor(red:0.4, green:1.0, blue:0.8, alpha:1.0)
     }
 
-    class func springCrayonColor()->UIColor {
+    class func springColor()->UIColor {
         return UIColor(red:0.0, green:1.0, blue:0.0, alpha:1.0)
     }
 
-    class func steelCrayonColor()->UIColor {
+    class func steelColor()->UIColor {
         return UIColor(red:0.4, green:0.4, blue:0.4, alpha:1.0)
     }
 
-    class func strawberryCrayonColor()->UIColor {
+    class func strawberryColor()->UIColor {
         return UIColor(red:1.0, green:0.0, blue:0.5, alpha:1.0)
     }
 
-    class func tangerineCrayonColor()->UIColor {
+    class func tangerineColor()->UIColor {
         return UIColor(red:1.0, green:0.5, blue:0.0, alpha:1.0)
     }
 
-    class func tealCrayonColor()->UIColor {
+    class func tealColor()->UIColor {
         return UIColor(red:0.0, green:0.5, blue:0.5, alpha:1.0)
     }
 
-    class func tinCrayonColor()->UIColor {
+    class func tinColor()->UIColor {
         return UIColor(red:0.5, green:0.5, blue:0.5, alpha:1.0)
     }
 
-    class func tungstenCrayonColor()->UIColor {
+    class func tungstenColor()->UIColor {
         return UIColor(red:0.2, green:0.2, blue:0.2, alpha:1.0)
     }
 
-    class func turquoiseCrayonColor()->UIColor {
+    class func turquoiseColor()->UIColor {
         return UIColor(red:0.0, green:1.0, blue:1.0, alpha:1.0)
     }
 
 
-    class func aliceBlueHTMLColor()->UIColor {
+    class func aliceBlueColor()->UIColor {
         return UIColor(red:0xF0/255.0, green:0xF8/255.0, blue:255.0/255.0, alpha:1.0)
     }
 
-    class func antiqueWhiteHTMLColor()->UIColor {
+    class func antiqueWhiteColor()->UIColor {
         return UIColor(red:0xFA/255.0, green:0xEB/255.0, blue:0xD7/255.0, alpha:1.0)
     }
 
-    class func aquaHTMLColor()->UIColor {
-        return UIColor(red:0x00/255.0, green:255.0/255.0, blue:255.0/255.0, alpha:1.0)
-    }
-
-    class func aquamarineHTMLColor()->UIColor {
+    class func aquamarineColor()->UIColor {
         return UIColor(red:0x7F/255.0, green:255.0/255.0, blue:0xD4/255.0, alpha:1.0)
     }
 
-    class func azureHTMLColor()->UIColor {
+    class func azureColor()->UIColor {
         return UIColor(red:0xF0/255.0, green:255.0/255.0, blue:255.0/255.0, alpha:1.0)
     }
 
-    class func beigeHTMLColor()->UIColor {
+    class func beigeColor()->UIColor {
         return UIColor(red:0xF5/255.0, green:0xF5/255.0, blue:0xDC/255.0, alpha:1.0)
     }
 
-    class func bisqueHTMLColor()->UIColor {
+    class func bisqueColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0xE4/255.0, blue:0xC4/255.0, alpha:1.0)
     }
 
-    class func blackHTMLColor()->UIColor {
+    class func blackColor()->UIColor {
         return UIColor(red:0x00/255.0, green:0x00/255.0, blue:0x00/255.0, alpha:1.0)
     }
 
-    class func blanchedAlmondHTMLColor()->UIColor {
+    class func blanchedAlmondColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0xEB/255.0, blue:0xCD/255.0, alpha:1.0)
     }
 
-    class func blueHTMLColor()->UIColor {
+    class func blueColor()->UIColor {
         return UIColor(red:0x00/255.0, green:0x00/255.0, blue:255.0/255.0, alpha:1.0)
     }
 
-    class func blueVioletHTMLColor()->UIColor {
+    class func blueVioletColor()->UIColor {
         return UIColor(red:0x8A/255.0, green:0x2B/255.0, blue:0xE2/255.0, alpha:1.0)
     }
 
-    class func brownHTMLColor()->UIColor {
+    class func brownColor()->UIColor {
         return UIColor(red:0xA5/255.0, green:0x2A/255.0, blue:0x2A/255.0, alpha:1.0)
     }
 
-    class func burlyWoodHTMLColor()->UIColor {
+    class func burlyWoodColor()->UIColor {
         return UIColor(red:0xDE/255.0, green:0xB8/255.0, blue:0x87/255.0, alpha:1.0)
     }
 
-    class func cadetBlueHTMLColor()->UIColor {
+    class func cadetBlueColor()->UIColor {
         return UIColor(red:0x5F/255.0, green:0x9E/255.0, blue:0xA0/255.0, alpha:1.0)
     }
 
-    class func chartreuseHTMLColor()->UIColor {
+    class func chartreuseColor()->UIColor {
         return UIColor(red:0x7F/255.0, green:255.0/255.0, blue:0x00/255.0, alpha:1.0)
     }
 
-    class func chocolateHTMLColor()->UIColor {
+    class func chocolateColor()->UIColor {
         return UIColor(red:0xD2/255.0, green:0x69/255.0, blue:0x1E/255.0, alpha:1.0)
     }
 
-    class func coralHTMLColor()->UIColor {
+    class func coralColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0x7F/255.0, blue:0x50/255.0, alpha:1.0)
     }
 
-    class func cornflowerBlueHTMLColor()->UIColor {
+    class func cornflowerBlueColor()->UIColor {
         return UIColor(red:0x64/255.0, green:0x95/255.0, blue:0xED/255.0, alpha:1.0)
     }
 
-    class func cornsilkHTMLColor()->UIColor {
+    class func cornsilkColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0xF8/255.0, blue:0xDC/255.0, alpha:1.0)
     }
 
-    class func crimsonHTMLColor()->UIColor {
+    class func crimsonColor()->UIColor {
         return UIColor(red:0xDC/255.0, green:0x14/255.0, blue:0x3C/255.0, alpha:1.0)
     }
 
-    class func cyanHTMLColor()->UIColor {
+    class func cyanColor()->UIColor {
         return UIColor(red:0x00/255.0, green:255.0/255.0, blue:255.0/255.0, alpha:1.0)
     }
 
-    class func darkBlueHTMLColor()->UIColor {
+    class func darkBlueColor()->UIColor {
         return UIColor(red:0x00/255.0, green:0x00/255.0, blue:0x8B/255.0, alpha:1.0)
     }
 
-    class func darkCyanHTMLColor()->UIColor {
+    class func darkCyanColor()->UIColor {
         return UIColor(red:0x00/255.0, green:0x8B/255.0, blue:0x8B/255.0, alpha:1.0)
     }
 
-    class func darkGoldenRodHTMLColor()->UIColor {
+    class func darkGoldenRodColor()->UIColor {
         return UIColor(red:0xB8/255.0, green:0x86/255.0, blue:0x0B/255.0, alpha:1.0)
     }
 
-    class func darkGrayHTMLColor()->UIColor {
+    class func darkGrayColor()->UIColor {
         return UIColor(red:0xA9/255.0, green:0xA9/255.0, blue:0xA9/255.0, alpha:1.0)
     }
 
-    class func darkGreyHTMLColor()->UIColor {
+    class func darkGreyColor()->UIColor {
         return UIColor(red:0xA9/255.0, green:0xA9/255.0, blue:0xA9/255.0, alpha:1.0)
     }
 
-    class func darkGreenHTMLColor()->UIColor {
+    class func darkGreenColor()->UIColor {
         return UIColor(red:0x00/255.0, green:0x64/255.0, blue:0x00/255.0, alpha:1.0)
     }
 
-    class func darkKhakiHTMLColor()->UIColor {
+    class func darkKhakiColor()->UIColor {
         return UIColor(red:0xBD/255.0, green:0xB7/255.0, blue:0x6B/255.0, alpha:1.0)
     }
 
-    class func darkMagentaHTMLColor()->UIColor {
+    class func darkMagentaColor()->UIColor {
         return UIColor(red:0x8B/255.0, green:0x00/255.0, blue:0x8B/255.0, alpha:1.0)
     }
 
-    class func darkOliveGreenHTMLColor()->UIColor {
+    class func darkOliveGreenColor()->UIColor {
         return UIColor(red:0x55/255.0, green:0x6B/255.0, blue:0x2F/255.0, alpha:1.0)
     }
 
-    class func darkorangeHTMLColor()->UIColor {
+    class func darkorangeColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0x8C/255.0, blue:0x00/255.0, alpha:1.0)
     }
 
-    class func darkOrchidHTMLColor()->UIColor {
+    class func darkOrchidColor()->UIColor {
         return UIColor(red:0x99/255.0, green:0x32/255.0, blue:0xCC/255.0, alpha:1.0)
     }
 
-    class func darkRedHTMLColor()->UIColor {
+    class func darkRedColor()->UIColor {
         return UIColor(red:0x8B/255.0, green:0x00/255.0, blue:0x00/255.0, alpha:1.0)
     }
 
-    class func darkSalmonHTMLColor()->UIColor {
+    class func darkSalmonColor()->UIColor {
         return UIColor(red:0xE9/255.0, green:0x96/255.0, blue:0x7A/255.0, alpha:1.0)
     }
 
-    class func darkSeaGreenHTMLColor()->UIColor {
+    class func darkSeaGreenColor()->UIColor {
         return UIColor(red:0x8F/255.0, green:0xBC/255.0, blue:0x8F/255.0, alpha:1.0)
     }
 
-    class func darkSlateBlueHTMLColor()->UIColor {
+    class func darkSlateBlueColor()->UIColor {
         return UIColor(red:0x48/255.0, green:0x3D/255.0, blue:0x8B/255.0, alpha:1.0)
     }
 
-    class func darkSlateGrayHTMLColor()->UIColor {
+    class func darkSlateGrayColor()->UIColor {
         return UIColor(red:0x2F/255.0, green:0x4F/255.0, blue:0x4F/255.0, alpha:1.0)
     }
 
-    class func darkSlateGreyHTMLColor()->UIColor {
+    class func darkSlateGreyColor()->UIColor {
         return UIColor(red:0x2F/255.0, green:0x4F/255.0, blue:0x4F/255.0, alpha:1.0)
     }
 
-    class func darkTurquoiseHTMLColor()->UIColor {
+    class func darkTurquoiseColor()->UIColor {
         return UIColor(red:0x00/255.0, green:0xCE/255.0, blue:0xD1/255.0, alpha:1.0)
     }
 
-    class func darkVioletHTMLColor()->UIColor {
+    class func darkVioletColor()->UIColor {
         return UIColor(red:0x94/255.0, green:0x00/255.0, blue:0xD3/255.0, alpha:1.0)
     }
 
-    class func deepPinkHTMLColor()->UIColor {
+    class func deepPinkColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0x14/255.0, blue:0x93/255.0, alpha:1.0)
     }
 
-    class func deepSkyBlueHTMLColor()->UIColor {
+    class func deepSkyBlueColor()->UIColor {
         return UIColor(red:0x00/255.0, green:0xBF/255.0, blue:255.0/255.0, alpha:1.0)
     }
 
-    class func dimGrayHTMLColor()->UIColor {
+    class func dimGrayColor()->UIColor {
         return UIColor(red:0x69/255.0, green:0x69/255.0, blue:0x69/255.0, alpha:1.0)
     }
 
-    class func dimGreyHTMLColor()->UIColor {
+    class func dimGreyColor()->UIColor {
         return UIColor(red:0x69/255.0, green:0x69/255.0, blue:0x69/255.0, alpha:1.0)
     }
 
-    class func dodgerBlueHTMLColor()->UIColor {
+    class func dodgerBlueColor()->UIColor {
         return UIColor(red:0x1E/255.0, green:0x90/255.0, blue:255.0/255.0, alpha:1.0)
     }
 
-    class func fireBrickHTMLColor()->UIColor {
+    class func fireBrickColor()->UIColor {
         return UIColor(red:0xB2/255.0, green:0x22/255.0, blue:0x22/255.0, alpha:1.0)
     }
 
-    class func floralWhiteHTMLColor()->UIColor {
+    class func floralWhiteColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0xFA/255.0, blue:0xF0/255.0, alpha:1.0)
     }
 
-    class func forestGreenHTMLColor()->UIColor {
+    class func forestGreenColor()->UIColor {
         return UIColor(red:0x22/255.0, green:0x8B/255.0, blue:0x22/255.0, alpha:1.0)
     }
 
-    class func fuchsiaHTMLColor()->UIColor {
+    class func fuchsiaColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0x00/255.0, blue:255.0/255.0, alpha:1.0)
     }
 
-    class func gainsboroHTMLColor()->UIColor {
+    class func gainsboroColor()->UIColor {
         return UIColor(red:0xDC/255.0, green:0xDC/255.0, blue:0xDC/255.0, alpha:1.0)
     }
 
-    class func ghostWhiteHTMLColor()->UIColor {
+    class func ghostWhiteColor()->UIColor {
         return UIColor(red:0xF8/255.0, green:0xF8/255.0, blue:255.0/255.0, alpha:1.0)
     }
 
-    class func goldHTMLColor()->UIColor {
+    class func goldColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0xD7/255.0, blue:0x00/255.0, alpha:1.0)
     }
 
-    class func goldenRodHTMLColor()->UIColor {
+    class func goldenRodColor()->UIColor {
         return UIColor(red:0xDA/255.0, green:0xA5/255.0, blue:0x20/255.0, alpha:1.0)
     }
 
-    class func grayHTMLColor()->UIColor {
+    class func grayColor()->UIColor {
         return UIColor(red:0x80/255.0, green:0x80/255.0, blue:0x80/255.0, alpha:1.0)
     }
 
-    class func greyHTMLColor()->UIColor {
+    class func greyColor()->UIColor {
         return UIColor(red:0x80/255.0, green:0x80/255.0, blue:0x80/255.0, alpha:1.0)
     }
 
-    class func greenHTMLColor()->UIColor {
+    class func greenColor()->UIColor {
         return UIColor(red:0x00/255.0, green:0x80/255.0, blue:0x00/255.0, alpha:1.0)
     }
 
-    class func greenYellowHTMLColor()->UIColor {
+    class func greenYellowColor()->UIColor {
         return UIColor(red:0xAD/255.0, green:255.0/255.0, blue:0x2F/255.0, alpha:1.0)
     }
 
-    class func honeyDewHTMLColor()->UIColor {
+    class func honeyDewColor()->UIColor {
         return UIColor(red:0xF0/255.0, green:255.0/255.0, blue:0xF0/255.0, alpha:1.0)
     }
 
-    class func hotPinkHTMLColor()->UIColor {
+    class func hotPinkColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0x69/255.0, blue:0xB4/255.0, alpha:1.0)
     }
 
-    class func indianRedHTMLColor()->UIColor {
+    class func indianRedColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0xD5/255.0, blue:0xC5C/255.0, alpha:1.0)
     }
 
-    class func indigoHTMLColor()->UIColor {
+    class func indigoColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0xB0/255.0, blue:0x082/255.0, alpha:1.0)
     }
 
-    class func ivoryHTMLColor()->UIColor {
+    class func ivoryColor()->UIColor {
         return UIColor(red:255.0/255.0, green:255.0/255.0, blue:0xF0/255.0, alpha:1.0)
     }
 
-    class func khakiHTMLColor()->UIColor {
+    class func khakiColor()->UIColor {
         return UIColor(red:0xF0/255.0, green:0xE6/255.0, blue:0x8C/255.0, alpha:1.0)
     }
 
-    class func lavenderHTMLColor()->UIColor {
-        return UIColor(red:0xE6/255.0, green:0xE6/255.0, blue:0xFA/255.0, alpha:1.0)
-    }
-
-    class func lavenderBlushHTMLColor()->UIColor {
+    class func lavenderBlushColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0xF0/255.0, blue:0xF5/255.0, alpha:1.0)
     }
 
-    class func lawnGreenHTMLColor()->UIColor {
+    class func lawnGreenColor()->UIColor {
         return UIColor(red:0x7C/255.0, green:0xFC/255.0, blue:0x00/255.0, alpha:1.0)
     }
 
-    class func lemonChiffonHTMLColor()->UIColor {
+    class func lemonChiffonColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0xFA/255.0, blue:0xCD/255.0, alpha:1.0)
     }
 
-    class func lightBlueHTMLColor()->UIColor {
+    class func lightBlueColor()->UIColor {
         return UIColor(red:0xAD/255.0, green:0xD8/255.0, blue:0xE6/255.0, alpha:1.0)
     }
 
-    class func lightCoralHTMLColor()->UIColor {
+    class func lightCoralColor()->UIColor {
         return UIColor(red:0xF0/255.0, green:0x80/255.0, blue:0x80/255.0, alpha:1.0)
     }
 
-    class func lightCyanHTMLColor()->UIColor {
+    class func lightCyanColor()->UIColor {
         return UIColor(red:0xE0/255.0, green:255.0/255.0, blue:255.0/255.0, alpha:1.0)
     }
 
-    class func lightGoldenRodYellowHTMLColor()->UIColor {
+    class func lightGoldenRodYellowColor()->UIColor {
         return UIColor(red:0xFA/255.0, green:0xFA/255.0, blue:0xD2/255.0, alpha:1.0)
     }
 
-    class func lightGrayHTMLColor()->UIColor {
+    class func lightGrayColor()->UIColor {
         return UIColor(red:0xD3/255.0, green:0xD3/255.0, blue:0xD3/255.0, alpha:1.0)
     }
 
-    class func lightGreyHTMLColor()->UIColor {
+    class func lightGreyColor()->UIColor {
         return UIColor(red:0xD3/255.0, green:0xD3/255.0, blue:0xD3/255.0, alpha:1.0)
     }
 
-    class func lightGreenHTMLColor()->UIColor {
+    class func lightGreenColor()->UIColor {
         return UIColor(red:0x90/255.0, green:0xEE/255.0, blue:0x90/255.0, alpha:1.0)
     }
 
-    class func lightPinkHTMLColor()->UIColor {
+    class func lightPinkColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0xB6/255.0, blue:0xC1/255.0, alpha:1.0)
     }
 
-    class func lightSalmonHTMLColor()->UIColor {
+    class func lightSalmonColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0xA0/255.0, blue:0x7A/255.0, alpha:1.0)
     }
 
-    class func lightSeaGreenHTMLColor()->UIColor {
+    class func lightSeaGreenColor()->UIColor {
         return UIColor(red:0x20/255.0, green:0xB2/255.0, blue:0xAA/255.0, alpha:1.0)
     }
 
-    class func lightSkyBlueHTMLColor()->UIColor {
+    class func lightSkyBlueColor()->UIColor {
         return UIColor(red:0x87/255.0, green:0xCE/255.0, blue:0xFA/255.0, alpha:1.0)
     }
 
-    class func lightSlateGrayHTMLColor()->UIColor {
+    class func lightSlateGrayColor()->UIColor {
         return UIColor(red:0x77/255.0, green:0x88/255.0, blue:0x99/255.0, alpha:1.0)
     }
 
-    class func lightSlateGreyHTMLColor()->UIColor {
+    class func lightSlateGreyColor()->UIColor {
         return UIColor(red:0x77/255.0, green:0x88/255.0, blue:0x99/255.0, alpha:1.0)
     }
 
-    class func lightSteelBlueHTMLColor()->UIColor {
+    class func lightSteelBlueColor()->UIColor {
         return UIColor(red:0xB0/255.0, green:0xC4/255.0, blue:0xDE/255.0, alpha:1.0)
     }
 
-    class func lightYellowHTMLColor()->UIColor {
+    class func lightYellowColor()->UIColor {
         return UIColor(red:255.0/255.0, green:255.0/255.0, blue:0xE0/255.0, alpha:1.0)
     }
 
-    class func limeHTMLColor()->UIColor {
-        return UIColor(red:0x00/255.0, green:255.0/255.0, blue:0x00/255.0, alpha:1.0)
-    }
-
-    class func limeGreenHTMLColor()->UIColor {
+    class func limeGreenColor()->UIColor {
         return UIColor(red:0x32/255.0, green:0xCD/255.0, blue:0x32/255.0, alpha:1.0)
     }
 
-    class func linenHTMLColor()->UIColor {
+    class func linenColor()->UIColor {
         return UIColor(red:0xFA/255.0, green:0xF0/255.0, blue:0xE6/255.0, alpha:1.0)
     }
 
-    class func magentaHTMLColor()->UIColor {
-        return UIColor(red:255.0/255.0, green:0x00/255.0, blue:255.0/255.0, alpha:1.0)
-    }
-
-    class func maroonHTMLColor()->UIColor {
-        return UIColor(red:0x80/255.0, green:0x00/255.0, blue:0x00/255.0, alpha:1.0)
-    }
-
-    class func mediumAquaMarineHTMLColor()->UIColor {
+    class func mediumAquaMarineColor()->UIColor {
         return UIColor(red:0x66/255.0, green:0xCD/255.0, blue:0xAA/255.0, alpha:1.0)
     }
 
-    class func mediumBlueHTMLColor()->UIColor {
+    class func mediumBlueColor()->UIColor {
         return UIColor(red:0x00/255.0, green:0x00/255.0, blue:0xCD/255.0, alpha:1.0)
     }
 
-    class func mediumOrchidHTMLColor()->UIColor {
+    class func mediumOrchidColor()->UIColor {
         return UIColor(red:0xBA/255.0, green:0x55/255.0, blue:0xD3/255.0, alpha:1.0)
     }
 
-    class func mediumPurpleHTMLColor()->UIColor {
+    class func mediumPurpleColor()->UIColor {
         return UIColor(red:0x93/255.0, green:0x70/255.0, blue:0xD8/255.0, alpha:1.0)
     }
 
-    class func mediumSeaGreenHTMLColor()->UIColor {
+    class func mediumSeaGreenColor()->UIColor {
         return UIColor(red:0x3C/255.0, green:0xB3/255.0, blue:0x71/255.0, alpha:1.0)
     }
 
-    class func mediumSlateBlueHTMLColor()->UIColor {
+    class func mediumSlateBlueColor()->UIColor {
         return UIColor(red:0x7B/255.0, green:0x68/255.0, blue:0xEE/255.0, alpha:1.0)
     }
 
-    class func mediumSpringGreenHTMLColor()->UIColor {
+    class func mediumSpringGreenColor()->UIColor {
         return UIColor(red:0x00/255.0, green:0xFA/255.0, blue:0x9A/255.0, alpha:1.0)
     }
 
-    class func mediumTurquoiseHTMLColor()->UIColor {
+    class func mediumTurquoiseColor()->UIColor {
         return UIColor(red:0x48/255.0, green:0xD1/255.0, blue:0xCC/255.0, alpha:1.0)
     }
 
-    class func mediumVioletRedHTMLColor()->UIColor {
+    class func mediumVioletRedColor()->UIColor {
         return UIColor(red:0xC7/255.0, green:0x15/255.0, blue:0x85/255.0, alpha:1.0)
     }
 
-    class func midnightBlueHTMLColor()->UIColor {
+    class func midnightBlueColor()->UIColor {
         return UIColor(red:0x19/255.0, green:0x19/255.0, blue:0x70/255.0, alpha:1.0)
     }
 
-    class func mintCreamHTMLColor()->UIColor {
+    class func mintCreamColor()->UIColor {
         return UIColor(red:0xF5/255.0, green:255.0/255.0, blue:0xFA/255.0, alpha:1.0)
     }
 
-    class func mistyRoseHTMLColor()->UIColor {
+    class func mistyRoseColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0xE4/255.0, blue:0xE1/255.0, alpha:1.0)
     }
 
-    class func moccasinHTMLColor()->UIColor {
+    class func moccasinColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0xE4/255.0, blue:0xB5/255.0, alpha:1.0)
     }
 
-    class func navajoWhiteHTMLColor()->UIColor {
+    class func navajoWhiteColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0xDE/255.0, blue:0xAD/255.0, alpha:1.0)
     }
 
-    class func navyHTMLColor()->UIColor {
+    class func navyColor()->UIColor {
         return UIColor(red:0x00/255.0, green:0x00/255.0, blue:0x80/255.0, alpha:1.0)
     }
 
-    class func oldLaceHTMLColor()->UIColor {
+    class func oldLaceColor()->UIColor {
         return UIColor(red:0xFD/255.0, green:0xF5/255.0, blue:0xE6/255.0, alpha:1.0)
     }
 
-    class func oliveHTMLColor()->UIColor {
+    class func oliveColor()->UIColor {
         return UIColor(red:0x80/255.0, green:0x80/255.0, blue:0x00/255.0, alpha:1.0)
     }
 
-    class func oliveDrabHTMLColor()->UIColor {
+    class func oliveDrabColor()->UIColor {
         return UIColor(red:0x6B/255.0, green:0x8E/255.0, blue:0x23/255.0, alpha:1.0)
     }
 
-    class func orangeHTMLColor()->UIColor {
+    class func orangeColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0xA5/255.0, blue:0x00/255.0, alpha:1.0)
     }
 
-    class func orangeRedHTMLColor()->UIColor {
+    class func orangeRedColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0x45/255.0, blue:0x00/255.0, alpha:1.0)
     }
 
-    class func orchidHTMLColor()->UIColor {
-        return UIColor(red:0xDA/255.0, green:0x70/255.0, blue:0xD6/255.0, alpha:1.0)
-    }
-
-    class func paleGoldenRodHTMLColor()->UIColor {
+    class func paleGoldenRodColor()->UIColor {
         return UIColor(red:0xEE/255.0, green:0xE8/255.0, blue:0xAA/255.0, alpha:1.0)
     }
 
-    class func paleGreenHTMLColor()->UIColor {
+    class func paleGreenColor()->UIColor {
         return UIColor(red:0x98/255.0, green:0xFB/255.0, blue:0x98/255.0, alpha:1.0)
     }
 
-    class func paleTurquoiseHTMLColor()->UIColor {
+    class func paleTurquoiseColor()->UIColor {
         return UIColor(red:0xAF/255.0, green:0xEE/255.0, blue:0xEE/255.0, alpha:1.0)
     }
 
-    class func paleVioletRedHTMLColor()->UIColor {
+    class func paleVioletRedColor()->UIColor {
         return UIColor(red:0xD8/255.0, green:0x70/255.0, blue:0x93/255.0, alpha:1.0)
     }
 
-    class func papayaWhipHTMLColor()->UIColor {
+    class func papayaWhipColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0xEF/255.0, blue:0xD5/255.0, alpha:1.0)
     }
 
-    class func peachPuffHTMLColor()->UIColor {
+    class func peachPuffColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0xDA/255.0, blue:0xB9/255.0, alpha:1.0)
     }
 
-    class func peruHTMLColor()->UIColor {
+    class func peruColor()->UIColor {
         return UIColor(red:0xCD/255.0, green:0x85/255.0, blue:0x3F/255.0, alpha:1.0)
     }
 
-    class func pinkHTMLColor()->UIColor {
+    class func pinkColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0xC0/255.0, blue:0xCB/255.0, alpha:1.0)
     }
 
-    class func plumHTMLColor()->UIColor {
-        return UIColor(red:0xDD/255.0, green:0xA0/255.0, blue:0xDD/255.0, alpha:1.0)
-    }
-
-    class func powderBlueHTMLColor()->UIColor {
+    class func powderBlueColor()->UIColor {
         return UIColor(red:0xB0/255.0, green:0xE0/255.0, blue:0xE6/255.0, alpha:1.0)
     }
 
-    class func purpleHTMLColor()->UIColor {
+    class func purpleColor()->UIColor {
         return UIColor(red:0x80/255.0, green:0x00/255.0, blue:0x80/255.0, alpha:1.0)
     }
 
-    class func redHTMLColor()->UIColor {
+    class func redColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0x00/255.0, blue:0x00/255.0, alpha:1.0)
     }
 
-    class func rosyBrownHTMLColor()->UIColor {
+    class func rosyBrownColor()->UIColor {
         return UIColor(red:0xBC/255.0, green:0x8F/255.0, blue:0x8F/255.0, alpha:1.0)
     }
 
-    class func royalBlueHTMLColor()->UIColor {
+    class func royalBlueColor()->UIColor {
         return UIColor(red:0x41/255.0, green:0x69/255.0, blue:0xE1/255.0, alpha:1.0)
     }
 
-    class func saddleBrownHTMLColor()->UIColor {
+    class func saddleBrownColor()->UIColor {
         return UIColor(red:0x8B/255.0, green:0x45/255.0, blue:0x13/255.0, alpha:1.0)
     }
 
-    class func salmonHTMLColor()->UIColor {
-        return UIColor(red:0xFA/255.0, green:0x80/255.0, blue:0x72/255.0, alpha:1.0)
-    }
-
-    class func sandyBrownHTMLColor()->UIColor {
+    class func sandyBrownColor()->UIColor {
         return UIColor(red:0xF4/255.0, green:0xA4/255.0, blue:0x60/255.0, alpha:1.0)
     }
 
-    class func seaGreenHTMLColor()->UIColor {
+    class func seaGreenColor()->UIColor {
         return UIColor(red:0x2E/255.0, green:0x8B/255.0, blue:0x57/255.0, alpha:1.0)
     }
 
-    class func seaShellHTMLColor()->UIColor {
+    class func seaShellColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0xF5/255.0, blue:0xEE/255.0, alpha:1.0)
     }
 
-    class func siennaHTMLColor()->UIColor {
+    class func siennaColor()->UIColor {
         return UIColor(red:0xA0/255.0, green:0x52/255.0, blue:0x2D/255.0, alpha:1.0)
     }
 
-    class func silverHTMLColor()->UIColor {
-        return UIColor(red:0xC0/255.0, green:0xC0/255.0, blue:0xC0/255.0, alpha:1.0)
-    }
-
-    class func skyBlueHTMLColor()->UIColor {
+    class func skyBlueColor()->UIColor {
         return UIColor(red:0x87/255.0, green:0xCE/255.0, blue:0xEB/255.0, alpha:1.0)
     }
 
-    class func slateBlueHTMLColor()->UIColor {
+    class func slateBlueColor()->UIColor {
         return UIColor(red:0x6A/255.0, green:0x5A/255.0, blue:0xCD/255.0, alpha:1.0)
     }
 
-    class func slateGrayHTMLColor()->UIColor {
+    class func slateGrayColor()->UIColor {
         return UIColor(red:0x70/255.0, green:0x80/255.0, blue:0x90/255.0, alpha:1.0)
     }
 
-    class func slateGreyHTMLColor()->UIColor {
+    class func slateGreyColor()->UIColor {
         return UIColor(red:0x70/255.0, green:0x80/255.0, blue:0x90/255.0, alpha:1.0)
     }
 
-    class func snowHTMLColor()->UIColor {
-        return UIColor(red:255.0/255.0, green:0xFA/255.0, blue:0xFA/255.0, alpha:1.0)
-    }
-
-    class func springGreenHTMLColor()->UIColor {
+    class func springGreenColor()->UIColor {
         return UIColor(red:0x00/255.0, green:255.0/255.0, blue:0x7F/255.0, alpha:1.0)
     }
 
-    class func steelBlueHTMLColor()->UIColor {
+    class func steelBlueColor()->UIColor {
         return UIColor(red:0x46/255.0, green:0x82/255.0, blue:0xB4/255.0, alpha:1.0)
     }
 
-    class func tanHTMLColor()->UIColor {
+    class func tanColor()->UIColor {
         return UIColor(red:0xD2/255.0, green:0xB4/255.0, blue:0x8C/255.0, alpha:1.0)
     }
 
-    class func tealHTMLColor()->UIColor {
-        return UIColor(red:0x00/255.0, green:0x80/255.0, blue:0x80/255.0, alpha:1.0)
-    }
-
-    class func thistleHTMLColor()->UIColor {
+    class func thistleColor()->UIColor {
         return UIColor(red:0xD8/255.0, green:0xBF/255.0, blue:0xD8/255.0, alpha:1.0)
     }
 
-    class func tomatoHTMLColor()->UIColor {
+    class func tomatoColor()->UIColor {
         return UIColor(red:255.0/255.0, green:0x63/255.0, blue:0x47/255.0, alpha:1.0)
     }
 
-    class func turquoiseHTMLColor()->UIColor {
-        return UIColor(red:0x40/255.0, green:0xE0/255.0, blue:0xD0/255.0, alpha:1.0)
-    }
-
-    class func violetHTMLColor()->UIColor {
+    class func violetColor()->UIColor {
         return UIColor(red:0xEE/255.0, green:0x82/255.0, blue:0xEE/255.0, alpha:1.0)
     }
 
-    class func wheatHTMLColor()->UIColor {
+    class func wheatColor()->UIColor {
         return UIColor(red:0xF5/255.0, green:0xDE/255.0, blue:0xB3/255.0, alpha:1.0)
     }
 
-    class func whiteHTMLColor()->UIColor {
+    class func whiteColor()->UIColor {
         return UIColor(red:255.0/255.0, green:255.0/255.0, blue:255.0/255.0, alpha:1.0)
     }
 
-    class func whiteSmokeHTMLColor()->UIColor {
+    class func whiteSmokeColor()->UIColor {
         return UIColor(red:0xF5/255.0, green:0xF5/255.0, blue:0xF5/255.0, alpha:1.0)
     }
 
-    class func yellowHTMLColor()->UIColor {
+    class func yellowColor()->UIColor {
         return UIColor(red:255.0/255.0, green:255.0/255.0, blue:0x00/255.0, alpha:1.0)
     }
 
-    class func yellowGreenHTMLColor()->UIColor {
+    class func yellowGreenColor()->UIColor {
         return UIColor(red:0x9A/255.0, green:0xCD/255.0, blue:0x32, alpha:1.0)
     }
 
