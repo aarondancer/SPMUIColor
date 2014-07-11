@@ -422,6 +422,12 @@ class SPMUIColor{
     class func modernYellowColor() -> UIColor { return UIColor(red:1, green:0.769, blue:0.051, alpha:1) }
     
     class func modernOrangeColor() -> UIColor { return UIColor(red:0.89, green:0.635, blue:0.102, alpha:1) }
+    
+    class func modernDarkOrangeColor() -> UIColor { return UIColor(red:0.855, green:0.325, blue:0.173, alpha:1) }
 
+    class func modernRedColor() -> UIColor { return UIColor(red:0.933, green:0.67, blue:0.67, alpha:1) }
+
+    class func modernDarkRedColor() -> UIColor { return UIColor(red:0.725, green:0.114, blue:0.278, alpha:1) }
+    
 }
     
