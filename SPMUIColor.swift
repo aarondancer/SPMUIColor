@@ -395,20 +395,25 @@ class SPMUIColor{
     
     class func yellowGreenColor() -> UIColor { return UIColor(red:0x9A/255, green:0xCD/255, blue:0x32, alpha:1) }
     
+    
+}
+
+extension SPMUIColor{
+    
     class func modernLightGreenColor() -> UIColor { return UIColor(red:0.6, green:0.706, blue:0.2, alpha:1) }
     
     class func modernGreenColor() -> UIColor { return UIColor(red:0, green:0.639, blue:0, alpha:1) }
-
+    
     class func modernDarkGreenColor() -> UIColor { return UIColor(red:0.118, green:0.443, blue:0.271, alpha:1) }
-
+    
     class func modernMagentaColor() -> UIColor { return UIColor(red:1, green:0, blue:0.592, alpha:1) }
-
+    
     class func modernLightPurpleColor() -> UIColor { return UIColor(red:0.624, green:0, blue:0.655, alpha:1) }
-
+    
     class func modernPurpleColor() -> UIColor { return UIColor(red:0.494, green:0.22, blue:0.471, alpha:1) }
     
     class func modernDarkPurpleColor() -> UIColor { return UIColor(red:0.376, green:0.235, blue:0.729, alpha:1) }
-
+    
     class func modernDarkenColor() -> UIColor { return UIColor(red:0.114, green:0.114, blue:0.114, alpha:1) }
     
     class func modernTealColor() -> UIColor { return UIColor(red:0, green:0.671, blue:0.663, alpha:1) }
@@ -418,16 +423,16 @@ class SPMUIColor{
     class func modernBlueColor() -> UIColor { return UIColor(red:0.176, green:0.537, blue:0.937, alpha:1) }
     
     class func modernDarkBlueColor() -> UIColor { return UIColor(red:0.169, green:0.341, blue:0.592, alpha:1) }
-
+    
     class func modernYellowColor() -> UIColor { return UIColor(red:1, green:0.769, blue:0.051, alpha:1) }
     
     class func modernOrangeColor() -> UIColor { return UIColor(red:0.89, green:0.635, blue:0.102, alpha:1) }
     
     class func modernDarkOrangeColor() -> UIColor { return UIColor(red:0.855, green:0.325, blue:0.173, alpha:1) }
-
-    class func modernRedColor() -> UIColor { return UIColor(red:0.933, green:0.67, blue:0.67, alpha:1) }
-
-    class func modernDarkRedColor() -> UIColor { return UIColor(red:0.725, green:0.114, blue:0.278, alpha:1) }
     
+    class func modernRedColor() -> UIColor { return UIColor(red:0.933, green:0.67, blue:0.67, alpha:1) }
+    
+    class func modernDarkRedColor() -> UIColor { return UIColor(red:0.725, green:0.114, blue:0.278, alpha:1) }
+
 }
     
